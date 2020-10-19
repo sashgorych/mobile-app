@@ -19,6 +19,6 @@ class SecondActivity : AppCompatActivity() {
         val passedMessage = intent.getStringExtra(PASSED_MESSAGE);
         val cm=Integer.parseInt(passedMessage);
         val cubicMetr = cm * 1000000;
-        textView.text = "" + cm + " метрів кубічних це " + cubicMetr + " сантиметрів кубічних";
+        textViewBook.text = "" + cm + " метрів кубічних це " + cubicMetr + " сантиметрів кубічних";
     }
 }

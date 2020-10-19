@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Lab1</string>
     <string name="passed_text">TextView</string>
+    <string name="sasha">бла бла бла</string>
+    <string name="username">userName</string>
+    <string name="Забронювати">Забронювати</string>
+    <string name="Моїбронювання">Мої бронювання</string>
 </resources>
